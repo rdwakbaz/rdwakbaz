@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I am a senior software engineer,  I have a passion for web development  , design & skilled in developing enterprise-grade software solutions using Microsoft technologies. With over 5 years of expertise, I deliver high-quality software products that fulfill my clients' specific needs. Throughout my professional journey, I have contributed to a diverse range of greenfield and brownfield software development projects in both corporate and freelance environments, providing profound insights into efficient, effective, and scalable software solutions.<br>Welcome to my GitHub. Browse around as you please, or check out  <a href="ridvanakbezli.site" target="_blank">My Site</a></p></p>
+<p align="left">I am a senior software engineer,  I have a passion for web development  , design & skilled in developing enterprise-grade software solutions using Microsoft technologies. With over 5 years of expertise, I deliver high-quality software products that fulfill my clients' specific needs. Throughout my professional journey, I have contributed to a diverse range of greenfield and brownfield software development projects in both corporate and freelance environments, providing profound insights into efficient, effective, and scalable software solutions.<br>Welcome to my GitHub. Browse around as you please, or check out  <a href="https://ridvanakbezli.site" target="_blank">My Site</a></p></p>
 
 ###
 
