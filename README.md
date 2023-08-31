@@ -42,6 +42,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/rdwakbaz/rdwakbaz/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg" alt="Snake animation" />
 
 ###
